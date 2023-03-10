@@ -1,0 +1,16 @@
+import unittest
+
+class TestFuncMath(unittest.TestCase):
+
+    def test_factorial(self):
+        self.assertEqual(func_math.factorial(0), 1)
+        self.assertEqual(func_math.factorial(1), 1)
+        self.assertEqual(func_math.factorial(5), 120)
+        self.assertEqual(func_math.factorial(10), 3628800)
+
+    def test_fibonacci(self):
+        self.assertEqual(func_math.fibonacci(0), [])
+        self.assertEqual(func_math.fibonacci(1), [0])
+        self.assertEqual(func_math.fibonacci(2), [0, 1])
+        self.assertEqual(func_math.fibonacci(5), [0, 1, 1, 2, 3])
+        self.assertEqual(func_math.fibonacci(10), [0, 1, 1, 2, 3, 5, 8, 13, 21, 34])

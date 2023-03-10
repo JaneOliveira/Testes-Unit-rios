@@ -30,12 +30,9 @@ Os testes unitários geralmente são escritos pelos próprios desenvolvedores e 
 Ao seguir esses passos, os desenvolvedores podem garantir que seu código seja testado de forma abrangente e eficaz, o que ajuda a reduzir erros e problemas no software final.
 
 ---
-# [Tutorial] Usando Unittest 
-### Framework de Testes Unitários do Python 
-O módulo unittest fornece um conjunto amplo de ferramentas para a construção e execução de testes.
+# [Exemplos] Usando Unittest 
 
-### Documentações de apoio:
-  - [Biblioteca Python - Unittest: Início](https://docs.python.org/pt-br/dev/library/unittest.html)
-  - [Biblioteca Python - Unittest: Métodos assertivos](https://docs.python.org/pt-br/dev/library/unittest.html#assert-methods)
+  - [Exemplo 1](https://docs.python.org/pt-br/dev/library/unittest.html)
+  - [Exemplo 2](https://docs.python.org/pt-br/dev/library/unittest.html#assert-methods)
 
-### 
+---
