@@ -32,7 +32,7 @@ Ao seguir esses passos, os desenvolvedores podem garantir que seu código seja t
 ---
 # [Exemplos] Usando Unittest 
 
-  - [Exemplo 1](https://docs.python.org/pt-br/dev/library/unittest.html)
+  - [Exemplo 1](https://github.com/JaneOliveira/Testes-Unitarios/tree/main/Exemplo%201)
   - [Exemplo 2](https://docs.python.org/pt-br/dev/library/unittest.html#assert-methods)
 
 ---
